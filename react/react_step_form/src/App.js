@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { UserForm } from './Components/UserForm';
+import UserForm from './Components/UserForm';
 
 function App() {
   return (
